@@ -10,7 +10,7 @@ Given a list of integers `arr`, modify it such that every 0 appears twice while 
 # How to submit
 
 * Complete the function `duplicate_zeros` under `solution.py`
-* Push your changes to `feedback`.
+* Push your changes to `master`.
 * Your code must be readable, [**pylint**](https://www.pylint.org/) checks will be run against each push.
 * Your code must pass all test cases. `grader.py` will be run against all input test cases inside `test_cases/`
 * Enjoy 💕!
